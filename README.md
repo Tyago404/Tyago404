@@ -10,6 +10,7 @@
 
 ###
 
+
 <p align="left">🚀 Sou desenvolvedor frontend em formação, apaixonado por criar interfaces modernas e responsivas.<br><br>⚡ Atualmente estudo Typescript, React  e Next.js, sempre buscando evoluir em boas práticas e padrões de projeto.<br><br>💡 Gosto de aprender, compartilhar conhecimento e transformar ideias em projetos reais.</p>
 
 ###
